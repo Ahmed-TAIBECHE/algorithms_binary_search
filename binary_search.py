@@ -1,7 +1,7 @@
 import random
 import time
 
-#in this code we have a sorted list will compare between naive search and binary search
+#in this code we have a sorted list of length 1000 and we will compare between naive search and binary search
 
 def main():
     length = 1000
